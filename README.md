@@ -75,10 +75,20 @@ Now ROS OS are installed in your device and ready to use.
 
 
 ## Screenshots
+1- Setup sources.list && key
+
 ![1 Setup sources.list && key](./ScreenShots/First.png)
+2- Instlattion
+
 ![2 Instlattion](./ScreenShots/installation.png)
+3- Environment setup
+
 ![3 Environment setup](./ScreenShots/End.png)
-![4 logo of ROS OS](./ScreenShots/Screenshot from 2022-07-16 02-46-27.png)
+4-logo of ROS OS
+
+![4 logo of ROS OS](./ScreenShots/logo.png)
+5-ROS Interface
+
 ![5 ROS Interface](./ScreenShots/interface.png)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
