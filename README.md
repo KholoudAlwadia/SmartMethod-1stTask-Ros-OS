@@ -1,6 +1,9 @@
 # SmartMethod-1stTask-Ros-OS
 First task in robotics and AI path(install Ros OS on Ubuntu 20.4)
 
+Sub task ROS2 Installation [ROS2.md](ROS2.md)
+
+
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
