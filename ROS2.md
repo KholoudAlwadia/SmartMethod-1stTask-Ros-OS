@@ -53,30 +53,35 @@ Install Xubuntu Instalation Focal Fossa (20.04): https://xubuntu.org/release/20-
       
 Now ROS2 OS are installed in your device and ready to use.
 
- ** Exaple to test** 
+ 5- Exaple to test 
    `ros2 run demo_nodes_cpp talker`
+   
+***Additonal Instalation***
+In additional you can instal Gazebo for interface and use for 3D robotics simulator
+
+   `sudo snap install gazebo --channel=citadel/beta`
+ After installation, we can execute the freshly installed Gazebo with the command
+   `gazebo.gz gazebo`
+
 
 ## Screenshots
 
-1- Setup sources.list && key
+1- Add the ROS 2 apt repository
 
-![1 Setup sources.list && key](./ScreenShots/First.png)
+![1 ROS 2 apt repository ](.ScreenShots/repository.jpeg)
 
 2- Instlattion
 
-![2 Instlattion](./ScreenShots/installation.png)
+![2 Instlattion Ros](.ScreenShots/RosInstall.jpeg)
 
-3- Environment setup
+3- Example Test
 
-![3 Environment setup](./ScreenShots/End.png)
+![3 ROsTest](.ScreenShots/ROsTest.jpeg)
 
-4-logo of ROS OS
+4- Gazebo 
 
-![4 logo of ROS OS](./ScreenShots/logo.png)
+![4 Gazeo](.ScreenShots/Gazebo.jpeg)
 
-5-ROS Interface
-
-![5 ROS Interface](./ScreenShots/interface.png)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
@@ -86,6 +91,8 @@ Now ROS2 OS are installed in your device and ready to use.
 ## Acknowledgements
 credit:
 
-- This Tutorial was based on ROS2 Documntation https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html#id3.
+- This Tutorial was based on 
+- ROS2 Documntation https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html#id3.
+-  Ubuntu for Gazebo installation https://ubuntu.com/blog/install-gazebo-for-ros-2-in-under-a-minute
 
 
