@@ -68,19 +68,19 @@ In additional you can instal Gazebo for interface and use for 3D robotics simula
 
 1- Add the ROS 2 apt repository
 
-![1 ROS 2 apt repository ](.ScreenShots/repository.jpeg)
+![1 ROS 2 apt repository ](./ScreenShots/repository.jpeg)
 
 2- Instlattion
 
-![2 Instlattion Ros](.ScreenShots/RosInstall.jpeg)
+![2 Instlattion Ros](./ScreenShots/RosInstall.jpeg)
 
 3- Example Test
 
-![3 ROsTest](.ScreenShots/ROsTest.jpeg)
+![3 ROsTest](./ScreenShots/ROsTest.jpeg)
 
 4- Gazebo 
 
-![4 Gazeo](.ScreenShots/Gazebo.jpeg)
+![4 Gazeo](./ScreenShots/Gazebo.jpeg)
 
 
 <!-- If you have screenshots you'd like to share, include them here. -->
